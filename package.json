@@ -1,0 +1,23 @@
+{
+  "name": "html-resource-compile",
+  "version": "1.0.0",
+  "description": "Compiling modern HTML the easy way.",
+  "main": "index.js",
+  "dependencies": {
+    "node-html-parser": "^5.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakealbaugh/html-resource-compile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakealbaugh/html-resource-compile/issues"
+  },
+  "homepage": "https://github.com/jakealbaugh/html-resource-compile#readme"
+}
